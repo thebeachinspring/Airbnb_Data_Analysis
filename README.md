@@ -26,21 +26,17 @@ you will also need the software for [iPython Notebook](http://ipython.org/notebo
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project we are required to answer 3 question from the data, the dataset I have chossen touse are the Seattle and Boston Airbnb datsets. The questions that i find most interesting from the data are:
+For this project we were required to answer 3 question from the data; the dataset I chose were the Seattle and Boston Airbnb datsets. The questions that I found most interesting from the data were:
 1. Which areas get the best rental rates? Help new host understand if thier property is in a wanted aread 
-2. Which properties get the best rental rates? This will help new host understand the best seeling point of thier property 
+2. Which properties get the best rental rates? This will help new host understand the best selling point of thier property 
 3. How well can we predict the listing price?  Estimating how much thier propery is worth and how much they could make 
 
 
 ## File Descriptions <a name="files"></a>
 
-**airbnb.ipynb**
+**Airbnb_analysis.ipynb**
 
-A Jupyter Notebook with all the codes following the steps of CRISP-DM for analyzing Airbnb data in Boston and Seattle.
-
-**helper.py**
-
-A python script containing all the functions used in the airbnb.ipynb.
+The Jupyter Notebook that holds the code to investigate and answer the above question using the CRISP-DM methodology for analyising data  
 
 **data/listings_seattle.csv**
 
@@ -73,5 +69,8 @@ The review data of Boston in year 2015-2016, downloaded from [here](https://www.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+Please feel free to folk this repository and build on what is here.
+
+Credit to Airbnb for the open data.
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle) and [here](https://www.kaggle.com/airbnb/boston).
 
