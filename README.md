@@ -40,27 +40,27 @@ The Jupyter Notebook that holds the code to investigate and answer the above que
 
 **data/listings_seattle.csv**
 
-The listings data of Seattle in year 2015-2016, downloaded from [here](https://www.kaggle.com/airbnb/seattle/data).
+The listings data of Seattle in year 2016-2017, downloaded from [here](https://www.kaggle.com/airbnb/seattle/data).
 
 **data/calendar_seattle.csv**
 
-The time-series data of Seattle in year 2015-2016, downloaded from [here](https://www.kaggle.com/airbnb/seattle/data).
+The time-series data of Seattle in year 2016-2017, downloaded from [here](https://www.kaggle.com/airbnb/seattle/data).
 
 **data/reviews_seattle.csv**
 
-The review data of Seattle in year 2015-2016, downloaded from [here](https://www.kaggle.com/airbnb/seattle/data).
+The review data of Seattle in year 2016-2017, downloaded from [here](https://www.kaggle.com/airbnb/seattle/data).
 
 **data/listings_boston.csv**
 
-The listings data of Boston in year 2015-2016, downloaded from [here](https://www.kaggle.com/airbnb/boston).
+The listings data of Boston in year 2016-2017, downloaded from [here](https://www.kaggle.com/airbnb/boston).
 
 **data/calendar_boston.csv**
 
-The time-series data of Boston in year 2015-2016, downloaded from [here](https://www.kaggle.com/airbnb/boston).
+The time-series data of Boston in year 2016-2017, downloaded from [here](https://www.kaggle.com/airbnb/boston).
 
 **data/reviews_boston.csv**
 
-The review data of Boston in year 2015-2016, downloaded from [here](https://www.kaggle.com/airbnb/boston).
+The review data of Boston in year 2016-2017, downloaded from [here](https://www.kaggle.com/airbnb/boston).
 
 
 ## Results<a name="results"></a>
