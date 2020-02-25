@@ -27,8 +27,10 @@ you will also need the software for [iPython Notebook](http://ipython.org/notebo
 ## Project Motivation<a name="motivation"></a>
 
 For this project we were required to answer 3 question from the data; the dataset I chose were the Seattle and Boston Airbnb datsets. The questions that I found most interesting from the data were:
-1. Which areas get the best rental rates? Help new host understand if thier property is in a wanted aread 
-2. How well can we predict the listing price?  Estimating how much thier propery is worth and how much they could make
+1. Which areas get the best rental rates? This will help me know if i'm in a high price area 
+
+2. How well can we predict the listing price? Estimating how much a propery is worth
+
 3. What are the most important features for predicting price? Give an idea of what people are looking for in a property
 
 
