@@ -31,7 +31,7 @@ For this project we were required to answer 3 question from the data; the datase
 
 2. What are the best types of property to rent? This will give an idea of what people are looking for
 
-3. What are the most important features for predicting price? Give an idea of what people are looking for in a property
+3. What are the most important features for predicting price? Give an idea of what gets the best price
 
 
 ## File Descriptions <a name="files"></a>
